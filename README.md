@@ -1,8 +1,6 @@
-### Hi there 👋
-
-<!--
-**M
-AYCON7027/NAYCON7027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 
+M
+AYCON7027/MAYCON7027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
